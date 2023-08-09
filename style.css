@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/utilities";
+@import "tailwindcss/components";
+
+.spacing {
+    letter-spacing: 1rem;
+}
+
+.spacing-1 {
+    letter-spacing: 0.1rem;
+}
